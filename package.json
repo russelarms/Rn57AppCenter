@@ -7,11 +7,11 @@
     "test": "jest"
   },
   "dependencies": {
-    "appcenter": "3.0.2",
-    "appcenter-analytics": "3.0.2",
-    "appcenter-crashes": "3.0.2",
+    "appcenter": "4.4.5",
+    "appcenter-analytics": "4.4.5",
+    "appcenter-crashes": "4.4.5",
     "react": "16.6.3",
-    "react-native": "0.57"
+    "react-native": "0.70"
   },
   "devDependencies": {
     "babel-jest": "26.0.1",
